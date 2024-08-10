@@ -2,6 +2,47 @@
     margin: 100px auto;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content:space-around;
     width: 90%;
 }
+.about-left{
+    flex-basis: 40%;
+    position: relative;
+}
+.about-right{
+    flex-basis: 56%;
+}
+.about-img{
+    width: 100%;
+    border-radius: 10px;
+}
+.about-left div{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    background: #42A5F5;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    color: white; 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.about-right h3{
+    font-weight: 600;
+    font-size: 16px;
+    color: #212EA0;
+}
+.about-right h2{
+    font-size: 35px;
+    color: #000F38;
+    margin: 10px 0;
+    max-width: 400px;
+}
+.about-right p{
+    color: #676767;
+    margin-bottom: 15px;
+}
+
