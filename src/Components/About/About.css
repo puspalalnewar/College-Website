@@ -1,0 +1,7 @@
+.about{
+    margin: 100px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+}
