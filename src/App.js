@@ -21,6 +21,7 @@ const App = () => {
         <Camp/>
         <Title subTitle = "Testimonials" title = "What Student Say"/>
         <Testimonials/>
+        <Title subTitle = "Contact Us" title = "Get In Touch"/>
       </div>
 
     </div>
