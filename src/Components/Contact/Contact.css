@@ -34,3 +34,21 @@
     margin-right: 10px;
     font-size: 25px;
 }
+.contact form input, .contact form textarea{
+    display: block;
+    width: 100%;
+    background: #EBECFE;
+    padding: 15px;
+    border: 0;
+    outline: 0;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    resize: none;
+}
+.contact-col span{
+    display: block;
+    margin: 20px 0;
+}
+.contact-col form button i{
+    margin-left: 10px;
+}
