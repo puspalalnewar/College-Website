@@ -10,21 +10,21 @@ const Programs = () => {
       <div className="program">
         <img src={program_1} alt="" />
         <div className="caption">
-          <i class="fa-solid fa-user-graduate"></i>
+          <i className="fa-solid fa-user-graduate"></i>
           <p>Graduate Degree</p>
         </div>
       </div>
       <div className="program">
         <img src={program_2} alt="" />
         <div className="caption">
-        <i class="fa-solid fa-graduation-cap"></i>
+        <i className="fa-solid fa-graduation-cap"></i>
           <p>Master's Degree</p>
         </div>
       </div>
       <div className="program">
         <img src={program_3} alt="" />
         <div className="caption">
-          <i class="fa-solid fa-user-graduate"></i>
+          <i className="fa-solid fa-user-graduate"></i>
           <p>Post Graduation Deg</p>
         </div>
       </div>

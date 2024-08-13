@@ -52,3 +52,11 @@
 .contact-col form button i{
     margin-left: 10px;
 }
+@media(max-width : 700px){
+    .contact{
+        display: block;
+    }
+    .contact-col{
+        padding: 20px;
+    }
+}

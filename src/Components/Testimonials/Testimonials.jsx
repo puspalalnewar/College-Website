@@ -27,10 +27,10 @@ const Testimonials = () => {
   return (
     <div className='testimonials'>
       <div className="design right-next" onClick={slideForward}>
-        <i class="fa-solid fa-arrow-right "></i>
+        <i className="fa-solid fa-arrow-right "></i>
       </div>
       <div className="design design-back left-back" onClick={slideBackward}>
-        <i class="fa-solid fa-arrow-left"></i>
+        <i className="fa-solid fa-arrow-left"></i>
       </div>
 
       <div className="slider">

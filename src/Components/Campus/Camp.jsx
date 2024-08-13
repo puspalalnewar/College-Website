@@ -14,7 +14,7 @@ const Camp = () => {
         <img src={gallery_3} alt="" />
         <img src={gallery_4} alt="" />
       </div>
-      <button className='btn dark-btn'>See more here <i class="fa-solid fa-arrow-right arrow-gap"></i></button>
+      <button className='btn dark-btn'>See more here <i className="fa-solid fa-arrow-right arrow-gap"></i></button>
     </div>
   )
 }
